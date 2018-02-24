@@ -8,7 +8,7 @@ function ninjaBabySelector(){
   return $('#babyninja');
 }
 function divSelector(){
-  return $('div .pics');
+  return $('.pics div');
 }
 function firstListItem(){
   return $('ul .pic-list:first-child');
